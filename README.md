@@ -5,30 +5,30 @@
 [![Data Portfolio](https://img.shields.io/badge/Data%20Portfolio%20(EN%20US)-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://periclesrmessias.github.io/portfolio/) 
 [![Data Portfolio](https://img.shields.io/badge/Portfólio%20de%20Dados%20(PT%20BR)-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://periclesrmessias.github.io/portfolio/)
 
-Profissional de análise de dados em início de carreira, apaixonado por conhecimento e ciência, atualmente criando projetos práticos analisando adoções de animais e gerenciamento de estoques em uma ONG de Belo Horizonte. Em busca de oportunidades para desenvolver e aprimorar habilidades essenciais na área de dados, contribuindo para o sucesso de empresas e organizações por meio de análises detalhadas, métodos estatísticos e, no futuro, modelos de inteligência artificial.
+Entry-level data analysis professional, passionate about knowledge and science, focused on applying detailed analyses and statistical methods to improve processes and outcomes. Currently, I am working on practical projects involving animal adoption analysis and stock management for an NGO in Belo Horizonte. I am looking for opportunities to continue developing and enhancing my data analysis skills to contribute to the success of companies and organizations. In the future, I plan to integrate artificial intelligence models into my analyses.
 
 
-### Foco Atual:
+### Current Focus:
 
-Atualmente estou trabalhando em dois projetos: 
+I am currently working on two main projects:
 
-[Adoções de Animais em Belo Horizonte] auxiliando a ONG de animais [Bastadotar](https://www.instagram.com/bast.adotar) a compreender melhor o processo de adoção de animais, envolvendo analisar quais animais tendem a ser mais adotados, explorando principalmente aspectos genéticos, temperamentais e sociais das famílias adotantes. 
+[Animal Adoptions in Belo Horizonte](https://github.com/periclesrmessias/bastadotar/tree/main/ado%C3%A7%C3%B5es) - assisting the animal NGO [Bastadotar](https://www.instagram.com/bast.adotar) to better understand the animal adoption process by analyzing which animals have a higher chance of being adopted and investigating factors such as genetics, temperament of the animals, and the social profile of adoptive families.
 
-[Gerenciamento de Estoque em ONG] também na [Bastadotar](https://www.instagram.com/bast.adotar), controlando o estoque de insumos, em busca de prever com maior precisão em qual momento há uma maior demanda por medicações, quais medicações são mais utilizadas, qual o maior gasto com medicação dentre outros aspectos que possam auxiliar na economia e no melhor aproveitamento de doações de medicamentos e no gasto com os animais.
+[NGO Stock Management](https://github.com/periclesrmessias/bastadotar/tree/main/estoque) - managing the supply stock at Bastadotar, aiming to predict the demand for medications, identify the most used items, optimize costs, and ensure better utilization of donations.
 
 
 
 ### Meus Projetos:
 
-[Adoções de Animais em Belo Horizonte]
+- [Animal Adoptions in Belo Horizonte](https://github.com/periclesrmessias/bastadotar/tree/main/ado%C3%A7%C3%B5es)
 
-[Gerenciamento de Estoque em ONG]
+- [NGO Stock Management](https://github.com/periclesrmessias/bastadotar/tree/main/estoque)
 
-[Estatísticas de Qualidade do Sono]
+- [Sleep Quality Statistics](https://github.com/periclesrmessias/sleep-quality-statistics)
 
-[IBM Evasão de Funcionários]
+- [IBM Employee Attrition](https://github.com/periclesrmessias/ibm-employee-attrition)
 
-## Habilidades Técnicas:
+## Technical Skills:
 <!-- Ferramentas -->
 <div style="display: inline_block">
   <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
@@ -44,10 +44,10 @@ Atualmente estou trabalhando em dois projetos:
 
 <!-- Skills -->
 
-- **Linguagens de Programação**: Python, SQL
-- **Banco de Dados**: SQLite, BigQuery
-- **Ferramentas de Visualização de Dados**: Power BI, DBeaver
-- **Ambientes de Desenvolvimento**: VSCode
-- **Controle de Versão**: Git, GitHub
-- **Produtividade e Ferramentas de Colaboração**: Google Workspace, Microsoft Office 365
-- **Habilidades Linguísticas**: Inglês (autodidata)
+- **Programming Languages**: Python, SQL
+- **Databases**: SQLite, BigQuery
+- **Data Visualization Tools**: Power BI, DBeaver
+- **Development Environments**: VSCode
+- **Version Control**: Git, GitHub
+- **Productivity and Collaboration**: Google Workspace, Microsoft Office 365
+- **Languages**: Inglês (fluent and self-taught)
