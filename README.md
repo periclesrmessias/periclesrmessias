@@ -1,9 +1,12 @@
 # Pericles Messias 👋🏼
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pericles-messias) 
+[![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:periclesrmessias@gmail.com) 
+[![Data Portfolio](https://img.shields.io/badge/Data%20Portfolio%20(EN%20US)-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://periclesrmessias.github.io/portfolio/) 
+[![Data Portfolio](https://img.shields.io/badge/Portfólio%20de%20Dados%20(PT%20BR)-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://periclesrmessias.github.io/portfolio/)
+
 Profissional de análise de dados em início de carreira, apaixonado por conhecimento e ciência, atualmente criando projetos práticos analisando adoções de animais e gerenciamento de estoques em uma ONG de Belo Horizonte. Em busca de oportunidades para desenvolver e aprimorar habilidades essenciais na área de dados, contribuindo para o sucesso de empresas e organizações por meio de análises detalhadas, métodos estatísticos e, no futuro, modelos de inteligência artificial.
 
-- Conecte-se comigo no LinkedIn: [Pericles Messias](https://www.linkedin.com/in/pericles-messias)
-- Você pode conhecer um pouco mais sobre meu trabalho no meu [portfólio](https://periclesrmessias.github.io/portfolio/)
 
 ### Foco Atual:
 
