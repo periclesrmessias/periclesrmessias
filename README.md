@@ -8,7 +8,7 @@
 Entry-level data analysis professional, passionate about knowledge and science, focused on applying detailed analyses and statistical methods to improve processes and outcomes. Currently, I am working on practical projects involving animal adoption analysis and stock management for an NGO in Belo Horizonte. I am looking for opportunities to continue developing and enhancing my data analysis skills to contribute to the success of companies and organizations. In the future, I plan to integrate artificial intelligence models into my analyses.
 
 
-### Current Focus:
+### Current Focus
 
 I am currently working on two main projects:
 
@@ -18,7 +18,7 @@ I am currently working on two main projects:
 
 
 
-### Meus Projetos:
+### Meus Projetos
 
 - [Animal Adoptions in Belo Horizonte](https://github.com/periclesrmessias/bastadotar/tree/main/ado%C3%A7%C3%B5es)
 
@@ -28,8 +28,8 @@ I am currently working on two main projects:
 
 - [IBM Employee Attrition](https://github.com/periclesrmessias/ibm-employee-attrition)
 
-## Technical Skills:
-<!-- Ferramentas -->
+## Technical Skills
+
 <div style="display: inline_block">
   <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img align="center" src="https://img.shields.io/badge/BigQuery-F9AB00?style=flat&logo=googlecloud&logoColor=white" />
@@ -39,10 +39,6 @@ I am currently working on two main projects:
   <img align="center" src="https://img.shields.io/badge/Google_Workspace-4285F4?style=flat&logo=google&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/Microsoft_Office_365-0078D4?style=flat&logo=microsoft&logoColor=white" />
 </div>
-
-<br/>
-
-<!-- Skills -->
 
 - **Programming Languages**: Python, SQL
 - **Databases**: SQLite, BigQuery
