@@ -2,8 +2,8 @@
 
 Profissional de análise de dados em início de carreira, apaixonado por conhecimento e ciência, atualmente criando projetos práticos analisando adoções de animais e gerenciamento de estoques em uma ONG de Belo Horizonte. Em busca de oportunidades para desenvolver e aprimorar habilidades essenciais na área de dados, contribuindo para o sucesso de empresas e organizações por meio de análises detalhadas, métodos estatísticos e, no futuro, modelos de inteligência artificial.
 
-Conecte-se comigo no LinkedIn: [Pericles Messias](https://www.linkedin.com/in/pericles-messias)
-Você pode conhecer um pouco mais sobre meu trabalho no meu [portfólio](https://periclesrmessias.github.io/portfolio/)
+- Conecte-se comigo no LinkedIn: [Pericles Messias](https://www.linkedin.com/in/pericles-messias)
+- Você pode conhecer um pouco mais sobre meu trabalho no meu [portfólio](https://periclesrmessias.github.io/portfolio/)
 
 ### Foco Atual:
 
