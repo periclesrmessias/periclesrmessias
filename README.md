@@ -18,7 +18,7 @@ I am currently working on two main projects:
 
 
 
-### Meus Projetos
+### Projects
 
 - [Animal Adoptions in Belo Horizonte](https://github.com/periclesrmessias/bastadotar/tree/main/ado%C3%A7%C3%B5es)
 
