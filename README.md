@@ -40,10 +40,10 @@ I am currently working on two main projects:
   <img align="center" src="https://img.shields.io/badge/Microsoft_Office_365-0078D4?style=flat&logo=microsoft&logoColor=white" />
 </div>
 
-- **Programming Languages**: Python, SQL
+- **Programming Languages**: Python, SQL, VBA
 - **Databases**: SQLite, BigQuery
 - **Data Visualization Tools**: Power BI, DBeaver
 - **Development Environments**: VSCode
 - **Version Control**: Git, GitHub
 - **Productivity and Collaboration**: Google Workspace, Microsoft Office 365
-- **Languages**: Inglês (fluent and self-taught)
+- **Languages**: Inglês (fluent)
