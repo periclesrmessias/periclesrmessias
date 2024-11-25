@@ -42,7 +42,7 @@ I am currently working on two main projects:
 
 - **Programming Languages**: Python, SQL, VBA
 - **Databases**: SQLite, BigQuery
-- **Data Visualization Tools**: Power BI, DBeaver
+- **Data Visualization Tools**: Power BI
 - **Development Environments**: VSCode
 - **Version Control**: Git, GitHub
 - **Productivity and Collaboration**: Google Workspace, Microsoft Office 365
