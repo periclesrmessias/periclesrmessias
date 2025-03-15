@@ -20,10 +20,6 @@ I am currently working on two main projects:
 
 ### Projects
 
-- [Animal Adoptions in Belo Horizonte](https://github.com/periclesrmessias/bastadotar/tree/main/ado%C3%A7%C3%B5es)
-
-- [NGO Stock Management](https://github.com/periclesrmessias/bastadotar/tree/main/estoque)
-
 - [Sleep Quality Statistics](https://github.com/periclesrmessias/sleep-quality-statistics)
 
 - [IBM Employee Attrition](https://github.com/periclesrmessias/ibm-employee-attrition)
