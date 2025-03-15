@@ -10,11 +10,7 @@ Entry-level data analysis professional, passionate about knowledge and science, 
 
 ### Current Focus
 
-I am currently working on two main projects:
-
-[Animal Adoptions in Belo Horizonte](https://github.com/periclesrmessias/bastadotar/tree/main/ado%C3%A7%C3%B5es) - assisting the animal NGO [Bastadotar](https://www.instagram.com/bast.adotar) to better understand the animal adoption process by analyzing which animals have a higher chance of being adopted and investigating factors such as genetics, temperament of the animals, and the social profile of adoptive families.
-
-[NGO Stock Management](https://github.com/periclesrmessias/bastadotar/tree/main/estoque) - managing the supply stock at Bastadotar, aiming to predict the demand for medications, identify the most used items, optimize costs, and ensure better utilization of donations.
+I am currently studying to obtain a degree in Data Science and learning more about Python and SQL after work hours.
 
 
 
