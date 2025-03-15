@@ -2,8 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pericles-messias) 
 [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:periclesrmessias@gmail.com) 
-[![Data Portfolio](https://img.shields.io/badge/Data%20Portfolio%20(EN%20US)-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://periclesrmessias.github.io/portfolio/) 
-[![Data Portfolio](https://img.shields.io/badge/Portfólio%20de%20Dados%20(PT%20BR)-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://periclesrmessias.github.io/portfolio/)
+[![Data Portfolio](https://img.shields.io/badge/Data%20Portfolio%20(EN%20US)-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://www.datascienceportfol.io/periclesrmessias)
 
 Entry-level data analysis professional, passionate about knowledge and science, focused on applying detailed analyses and statistical methods to improve processes and outcomes. I am always looking for opportunities to develop and enhance my data analysis skills.
 
