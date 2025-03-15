@@ -5,7 +5,7 @@
 [![Data Portfolio](https://img.shields.io/badge/Data%20Portfolio%20(EN%20US)-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://periclesrmessias.github.io/portfolio/) 
 [![Data Portfolio](https://img.shields.io/badge/Portfólio%20de%20Dados%20(PT%20BR)-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://periclesrmessias.github.io/portfolio/)
 
-Entry-level data analysis professional, passionate about knowledge and science, focused on applying detailed analyses and statistical methods to improve processes and outcomes. Currently, I am working on practical projects involving animal adoption analysis and stock management for an NGO in Belo Horizonte. I am looking for opportunities to continue developing and enhancing my data analysis skills to contribute to the success of companies and organizations.
+Entry-level data analysis professional, passionate about knowledge and science, focused on applying detailed analyses and statistical methods to improve processes and outcomes. I am always looking for opportunities to develop and enhance my data analysis skills.
 
 
 ### Current Focus
