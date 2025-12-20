@@ -14,6 +14,7 @@ I am currently studying to obtain a degree in Data Science and learning more abo
 
 
 ### Projects
+- [Weather Data Pipeline]
 
 - [Sleep Quality Statistics](https://github.com/periclesrmessias/sleep-quality-statistics)
 
@@ -31,10 +32,10 @@ I am currently studying to obtain a degree in Data Science and learning more abo
   <img align="center" src="https://img.shields.io/badge/Microsoft_Office_365-0078D4?style=flat&logo=microsoft&logoColor=white" />
 </div>
 
-- **Programming Languages**: Python, SQL, VBA
+- **Programming Languages**: Python, SQL, VBA, DAX, M
 - **Databases**: SQLite, BigQuery
 - **Data Visualization Tools**: Power BI
 - **Development Environments**: VSCode
 - **Version Control**: Git, GitHub
 - **Productivity and Collaboration**: Google Workspace, Microsoft Office 365
-- **Languages**: Inglês (fluent)
+- **Languages**: English (fluent)
