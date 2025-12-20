@@ -4,7 +4,7 @@
 [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:periclesrmessias@gmail.com) 
 [![Data Portfolio](https://img.shields.io/badge/Data%20Portfolio%20(EN%20US)-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://www.datascienceportfol.io/periclesrmessias)
 
-Entry-level data analysis professional, passionate about knowledge and science, focused on applying detailed analyses and statistical methods to improve processes and outcomes. I am always looking for opportunities to develop and enhance my data analysis skills.
+Data analysis professional, passionate about knowledge and science, focused on working with the whole data cycle.
 
 
 ### Current Focus
