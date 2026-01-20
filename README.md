@@ -4,10 +4,10 @@
 [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:periclesrmessias@gmail.com) 
 [![Data Portfolio](https://img.shields.io/badge/Data%20Portfolio%20(EN%20US)-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://www.datascienceportfol.io/periclesrmessias)
 
-Data analysis professional, passionate about knowledge and science, focused on working with the whole data cycle. Currently studying to obtain a degree in Data Science and learning more about Python and SQL after work hours.
+Data analysis professional, passionate about knowledge and science, focused on working with the whole data cycle. Currently studying to obtain a degree in Data Science and learning more about data after work hours.
 
 ### Projects
-- [Weather Data Pipeline]
+- [Weather Data Pipeline](https://github.com/periclesrmessias/weather-data-pipeline)
 
 - [Sleep Quality Statistics](https://github.com/periclesrmessias/sleep-quality-statistics)
 
