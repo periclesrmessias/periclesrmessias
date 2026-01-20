@@ -7,11 +7,13 @@
 Data analysis professional, passionate about knowledge and science, focused on working with the whole data cycle. Currently studying to obtain a degree in Data Science and learning more about data after work hours.
 
 ### Projects
-- [Weather Data Pipeline](https://github.com/periclesrmessias/weather-data-pipeline)
+- [Data Engeneering Zoomcamp](https://github.com/periclesrmessias/data-engeneering-zoomcamp) (Docker, PostgreSQL, BigQuery, Terraform, Kafka)
 
-- [Sleep Quality Statistics](https://github.com/periclesrmessias/sleep-quality-statistics)
+- [Weather Data Pipeline](https://github.com/periclesrmessias/weather-data-pipeline) (Azure)
 
-- [IBM Employee Attrition](https://github.com/periclesrmessias/ibm-employee-attrition)
+- [Sleep Quality Statistics](https://github.com/periclesrmessias/sleep-quality-statistics) (PowerBI)
+
+- [IBM Employee Attrition](https://github.com/periclesrmessias/ibm-employee-attrition) (Excel)
 
 ## Technical Skills
 
