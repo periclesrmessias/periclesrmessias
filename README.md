@@ -15,18 +15,8 @@ Data analysis professional, passionate about knowledge and science, focused on w
 
 ## Technical Skills
 
-<div style="display: inline_block">
-  <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img align="center" src="https://img.shields.io/badge/BigQuery-F9AB00?style=flat&logo=googlecloud&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/Power_BI-F2C94C?style=flat&logo=powerbi&logoColor=black" />
-  <img align="center" src="https://img.shields.io/badge/Google_Workspace-4285F4?style=flat&logo=google&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/Microsoft_Office_365-0078D4?style=flat&logo=microsoft&logoColor=white" />
-</div>
-
-- **Programming Languages**: Python, SQL, VBA, DAX, M
-- **Databases**: SQLite, BigQuery
+- **Programming Languages**: Python, SQL, DAX, M, VBA
+- **Databases**: SQLite, BigQuery, PostgreSQL
 - **Data Visualization Tools**: Power BI
 - **Development Environments**: VSCode
 - **Version Control**: Git, GitHub
