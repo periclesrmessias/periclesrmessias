@@ -23,4 +23,4 @@ Data analysis professional, passionate about knowledge and science, focused on w
 - **Development Environments**: VSCode
 - **Version Control**: Git, GitHub
 - **Productivity and Collaboration**: Google Workspace, Microsoft Office 365
-- **Languages**: English (fluent)
+- **Languages**: English
