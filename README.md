@@ -7,7 +7,7 @@
 Data analysis professional, passionate about knowledge and science, focused on working with the whole data cycle. Currently studying to obtain a degree in Data Science and learning more about data after work hours.
 
 ### Projects
-- [Data Engeneering Zoomcamp](https://github.com/periclesrmessias/data-engineering-zoomcamp) (Docker, PostgreSQL, BigQuery, Terraform, Kafka)
+- [Data Engineering Zoomcamp](https://github.com/periclesrmessias/data-engineering-zoomcamp) (Docker, PostgreSQL, BigQuery, Terraform, Kafka)
 
 - [Weather Data Pipeline](https://github.com/periclesrmessias/weather-data-pipeline) (Azure)
 
