@@ -19,10 +19,12 @@ Data analysis professional, passionate about knowledge and science, focused on w
 
 ## Technical Skills
 
-- **Programming Languages**: Python, SQL, DAX, M, VBA
-- **Databases**: SQLite, BigQuery, PostgreSQL
+- **Programming Languages**: Python, SQL, DAX, Power Query (M), VBA
+- **Data Analysis**: Pandas, NumPy, Matplotlib
+- **Data Engineering**: Docker, Azure Functions, Azure Blob Storage, Terraform, Kafka
+- **Databases**: PostgreSQL, BigQuery, SQLite
 - **Data Visualization Tools**: Power BI
-- **Development Environments**: VSCode
+- **Development Environments**: VS Code, Jupyter Notebook
 - **Version Control**: Git, GitHub
-- **Productivity and Collaboration**: Google Workspace, Microsoft Office 365
+- **Productivity and Collaboration**: Google Workspace, Microsoft 365
 - **Languages**: English
