@@ -9,6 +9,8 @@ Data analysis professional, passionate about knowledge and science, focused on w
 ### Projects
 - [Data Engineering Zoomcamp](https://github.com/periclesrmessias/data-engineering-zoomcamp) In Progress (Docker, PostgreSQL, BigQuery, Terraform, Kafka)
 
+- [Fraud Detection Analysis](https://github.com/periclesrmessias/fraud-detection-analysis) (Python, Jupyter Notebook, Pandas, NumPy, Matplotlib)
+
 - [Weather Data Pipeline](https://github.com/periclesrmessias/weather-data-pipeline) (Azure Functions, Blob Storage, Python)
 
 - [Sleep Quality Statistics](https://github.com/periclesrmessias/sleep-quality-statistics) (PowerBI)
